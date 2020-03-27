@@ -5,6 +5,7 @@
 ### Blog Post
 
 - [BERT Research - Ep. 1 - Key Concepts & Sources](http://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)
+- [BERT Fine-Tuning Tutorial with PyTorch](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 
 ### YouTube
 
